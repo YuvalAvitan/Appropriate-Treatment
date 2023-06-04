@@ -1,0 +1,11 @@
+-----------------------------------------------------------------------------------
+Name of patient: 11    
+Id: 11     
+Age: 11     
+
+-----------------------------------------------------------------------------------
+Diagnose:  Infection        ,Treatment:   Dedicated antibiotics       
+Diagnose:  Smokers        ,Treatment:   to stop smoking       
+Diagnose:  cancer        ,Treatment:   Entrectinib       
+Diagnose:  Malnutrition        ,Treatment:   Schedule an appointment with a nutritionist       
+-----------------------------------------------------------------------------------
